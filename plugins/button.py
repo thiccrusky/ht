@@ -47,7 +47,7 @@ def start_button(client):
             [
                 InlineKeyboardButton(text="ʟɪᴠᴇ sʜᴏᴡ ʙᴀʀ-ʙᴀʀ", url=f"https://t.me/live_colmek"),
             ],
-            [InlineKeyboardButton(text="ᴠᴄs ʀᴇᴀʟ [ᴏᴘᴇɴ 𝟸𝟺 ᴊᴀᴍ]", url=f"https://t.me/vcs_real_info")],
+            [InlineKeyboardButton(text="ᴠᴄs ʀᴇᴀʟ [ᴏᴘᴇɴ 𝟸𝟺 ᴊᴀᴍ]", url=f"https://t.me/vcs_real_talent")],
         ]
         return buttons
 
