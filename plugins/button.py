@@ -41,13 +41,13 @@ def start_button(client):
     if FORCE_SUB_CHANNEL and FORCE_SUB_CHANNEL2 and FORCE_SUB_GROUP:
         buttons = [
             [
-                InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ ᴜᴛᴀᴍᴀ", url=client.invitelink),
+                InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ ᴜᴛᴀᴍᴀ", url=f"https://t.me/BOKEP_HENTAI_KODE_NUKLIR"),
                 InlineKeyboardButton(text="ᴄʜᴀɴɴᴇʟ ʟᴀɪɴɴʏᴀ", url=f"https://t.me/ListBacol"),
             ],
             [
                 InlineKeyboardButton(text="ʟɪᴠᴇ sʜᴏᴡ ʙᴀʀ-ʙᴀʀ", url=f"https://t.me/live_colmek"),
             ],
-            [InlineKeyboardButton(text="ᴠᴄs ʀᴇᴀʟ [ᴏᴘᴇɴ 𝟸𝟺 ᴊᴀᴍ]", url=f"https://t.me/vcs_real_talent")],
+            [InlineKeyboardButton(text="ᴠᴄs ʀᴇᴀʟ [ᴏᴘᴇɴ 𝟸𝟺 ᴊᴀᴍ]", url=f"https://t.me/vcsreal_talent")],
         ]
         return buttons
 
